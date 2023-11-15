@@ -1,3 +1,5 @@
+package finalRobot_Robin_Bodineau;
+
 import java.awt.*;
 import java.awt.geom.*;
 import java.util.Random;

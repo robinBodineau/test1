@@ -1,3 +1,5 @@
+package finalRobot_Robin_Bodineau;
+
 import javax.swing.*;
 import java.awt.*;
 import java.util.List;

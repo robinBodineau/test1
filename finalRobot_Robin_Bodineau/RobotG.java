@@ -1,3 +1,5 @@
+package finalRobot_Robin_Bodineau;
+
 
 /**
  * La classe abstraite RobotG représente un robot dans un environnement 2D.

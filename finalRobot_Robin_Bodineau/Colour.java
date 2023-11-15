@@ -1,3 +1,5 @@
+package finalRobot_Robin_Bodineau;
+
 
 /**
  * Enumeration class Colour: this class constrains the colours to be used in Canvas

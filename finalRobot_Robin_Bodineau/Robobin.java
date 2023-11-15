@@ -1,8 +1,10 @@
+package finalRobot_Robin_Bodineau;
+
 
 /**
  * Write a description of class rainbowRobot here.
  *
- * @author Robin Bodineau
+ * @author Robin Bodineau le mec le plus stylé de la fac
  * @version 31/10/23
  */
 public class Robobin extends RobotG
